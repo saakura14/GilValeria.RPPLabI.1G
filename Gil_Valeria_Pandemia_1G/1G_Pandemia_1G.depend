@@ -1,0 +1,348 @@
+# depslib dependency file v1.0
+1596138772 source:c:\users\facu\desktop\1g_pandemia_1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Objeto.h"
+	"parser.h"
+
+1596136369 source:c:\users\facu\desktop\1g_pandemia_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcion_abm.h"
+
+1596129174 source:c:\users\facu\desktop\1g_pandemia_1g\informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"../Pandemia/Getters/Getters.h"
+	"../Pandemia/Setters/Setters.h"
+	"../Pandemia/Pandemia.h"
+	"../LinkedList.h"
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\pandemia\getters\getters.h
+	"../Pandemia.h"
+
+1596130049 c:\users\facu\desktop\1g_pandemia_1g\pandemia\pandemia.h
+	"../LinkedList.h"
+
+1596130870 c:\users\facu\desktop\1g_pandemia_1g\linkedlist.h
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\pandemia\setters\setters.h
+	"../Pandemia.h"
+
+1596129449 source:c:\users\facu\desktop\1g_pandemia_1g\controller\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"../LinkedList.h"
+	"../Pandemia/Pandemia.h"
+	"../Pandemia/Getters/Getters.h"
+	"../Parser/parser.h"
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\parser\parser.h
+
+1596129862 source:c:\users\facu\desktop\1g_pandemia_1g\funcionprincipal\mainapp.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../LinkedList.h"
+	"../Validate/caidevValidate.h"
+	"../Pandemia/Pandemia.h"
+	"../Controller/Controller.h"
+	"../MenuPrincipal/MainMenu.h"
+	"../Pandemia/Setters/Setters.h"
+	"../Pandemia/Getters/Getters.h"
+	"../Informes/Informes.h"
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\validate\caidevvalidate.h
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\controller\controller.h
+	"../LinkedList.h"
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\menuprincipal\mainmenu.h
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\informes\informes.h
+
+1596138842 source:c:\users\facu\desktop\1g_pandemia_1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596129481 source:c:\users\facu\desktop\1g_pandemia_1g\menuprincipal\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Validate/caidevValidate.h"
+
+1596129487 source:c:\users\facu\desktop\1g_pandemia_1g\pandemia\getters\getters.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Pandemia.h"
+	"Getters.h"
+
+1596129834 source:c:\users\facu\desktop\1g_pandemia_1g\pandemia\pandemia.c
+	"Pandemia.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Pandemia/Getters/Getters.h"
+	"../Pandemia/Setters/Setters.h"
+
+1596129498 source:c:\users\facu\desktop\1g_pandemia_1g\pandemia\setters\setters.c
+	<stdio.h>
+	"Setters.h"
+	<stdlib.h>
+	<string.h>
+	"../../Controller/Controller.h"
+	"../../Validate/caidevValidate.h"
+	"../../LinkedList.h"
+	"../Pandemia.h"
+
+1596129174 source:c:\users\facu\desktop\1g_pandemia_1g\pandemy.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"FuncionPrincipal/MainApp.h"
+
+1596129174 c:\users\facu\desktop\1g_pandemia_1g\funcionprincipal\mainapp.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../LinkedList.h"
+
+1596129523 source:c:\users\facu\desktop\1g_pandemia_1g\parser\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"../LinkedList.h"
+	"../Pandemia/Pandemia.h"
+
+1596129878 source:c:\users\facu\desktop\1g_pandemia_1g\validate\caidevvalidate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"caidevValidate.h"
+
+1596129785 source:c:\users\facu\desktop\1g_pandemia_1g\pandemia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pandemia/Getters/Getters.h"
+	"Pandemia/Setters/Setters.h"
+
+1596137006 source:c:\users\facu\desktop\1g_pandemia_1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Objeto.h"
+	"LinkedList.h"
+
+1596139015 c:\users\facu\desktop\1g_pandemia_1g\objeto.h
+
+1596138943 c:\users\facu\desktop\1g_pandemia_1g\funcion_abm.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596138914 source:c:\users\facu\desktop\1g_pandemia_1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596133757 source:c:\users\facu\desktop\1g_pandemia_1g\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1596133396 c:\users\facu\desktop\1g_pandemia_1g\utn.h
+
+1596138962 source:c:\users\facu\desktop\1g_pandemia_1g\funcion_abm.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Objeto.h"
+	"Controller.h"
+	"Informes.h"
+
+1596131284 c:\users\facu\desktop\1g_pandemia_1g\controller.h
+	"LinkedList.h"
+
+1596136155 c:\users\facu\desktop\1g_pandemia_1g\informes.h
+
+1596138893 source:c:\users\facu\desktop\1g_pandemia_1g\objeto.c
+	<stdio.h>
+	"Objeto.h"
+	<stdlib.h>
+	<string.h>
+
+1596139093 c:\users\facu\desktop\1g_pandemia_1g\parser.h
+
+1596138772 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Objeto.h"
+	"parser.h"
+
+1596130870 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\linkedlist.h
+
+1596152695 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\objeto.h
+
+1596139093 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\parser.h
+
+1596150562 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\funcion_abm.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Objeto.h"
+	"Controller.h"
+	"Informes.h"
+
+1596133396 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\utn.h
+
+1596131284 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\controller.h
+	"LinkedList.h"
+
+1596143860 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\informes.h
+
+1596137006 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Objeto.h"
+	"LinkedList.h"
+
+1596138842 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596136369 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcion_abm.h"
+
+1596138943 c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\funcion_abm.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596138893 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\objeto.c
+	<stdio.h>
+	"Objeto.h"
+	<stdlib.h>
+	<string.h>
+
+1596138914 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596143495 source:c:\users\valeria\desktop\gil_valeria_1g_pandemia\gil_valeria_pandemia_1g\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1596138772 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Objeto.h"
+	"parser.h"
+
+1596130870 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\linkedlist.h
+
+1596156054 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\objeto.h
+
+1596139093 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\parser.h
+
+1596150562 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\funcion_abm.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Objeto.h"
+	"Controller.h"
+	"Informes.h"
+
+1596133396 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\utn.h
+
+1596131284 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\controller.h
+	"LinkedList.h"
+
+1596143860 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\informes.h
+
+1596137006 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Objeto.h"
+	"LinkedList.h"
+
+1596138842 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596136369 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcion_abm.h"
+
+1596138943 c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\funcion_abm.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596138893 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\objeto.c
+	<stdio.h>
+	"Objeto.h"
+	<stdlib.h>
+	<string.h>
+
+1596138914 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596143495 source:c:\users\valeria\desktop\subir labo\gilvaleria.rpplabi.1g\gil_valeria_pandemia_1g\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
